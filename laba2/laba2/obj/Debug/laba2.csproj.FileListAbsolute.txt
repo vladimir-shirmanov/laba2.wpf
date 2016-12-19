@@ -1,0 +1,9 @@
+C:\Users\vladimir\Documents\Visual Studio 2015\Projects\laba2\laba2\bin\Debug\laba2.exe.config
+C:\Users\vladimir\Documents\Visual Studio 2015\Projects\laba2\laba2\obj\Debug\laba2.csprojResolveAssemblyReference.cache
+C:\Users\vladimir\Documents\Visual Studio 2015\Projects\laba2\laba2\obj\Debug\MainWindow.g.cs
+C:\Users\vladimir\Documents\Visual Studio 2015\Projects\laba2\laba2\obj\Debug\View\StartPage.g.cs
+C:\Users\vladimir\Documents\Visual Studio 2015\Projects\laba2\laba2\obj\Debug\App.g.cs
+C:\Users\vladimir\Documents\Visual Studio 2015\Projects\laba2\laba2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\vladimir\Documents\Visual Studio 2015\Projects\laba2\laba2\obj\Debug\laba2_MarkupCompile.cache
+C:\Users\vladimir\Documents\Visual Studio 2015\Projects\laba2\laba2\obj\Debug\laba2_MarkupCompile.lref
+C:\Users\vladimir\Source\Repos\laba2\laba2.wpf\laba2\laba2\bin\Debug\laba2.exe.config
